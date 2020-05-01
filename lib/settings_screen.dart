@@ -14,7 +14,6 @@ class SettingsScreen extends StatefulWidget {
 
 class _SettingsScreenState extends State<SettingsScreen> {
   File _image;
-  // bool _inProcess;
 
   @override
   Widget build(BuildContext context) {
